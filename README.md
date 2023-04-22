@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**muir/muir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Dependency injection
+  [nject](https://github.com/muir/nject)
+  [ntest](https://github.com/memsql/ntest)
 
-Here are some ideas to get you started:
+- HTTP handling (with DI)
+  [nchi](https://github.com/muir/nchi)
+  [nvelope](https://github.com/muir/nvelope)
+  [nvalid](https://github.com/muir/nvalid)
+  [nape](https://github.com/muir/nape)
+  [npoint](https://github.com/muir/npoint)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Databases
+  [libschema](https://github.com/muir/libschema)
+  [sqltoken](https://github.com/muir/sqltoken)
+
+- Config/startup
+  [nfigure](https://github.com/muir/nfigure)
+  [nserve](https://github.com/muir/nserve)
+
+- Logging
+  [xop](https://github.com/xoplog/xop-go)
+
+- Utilities/Support
+  [nflex](https://github.com/muir/nflex)
+  [detangle_testing](https://github.com/muir/detangle_testing)
+  [reflectutils](https://github.com/muir/reflectutils)
+
+- Generics
+  [list](https://github.com/muir/list)
+  [gwrap](https://github.com/muir/gwrap)
+
+- other projects
+  [oidc](https://github.com/zitadel/oidc)
+  [singlestore-auth-helper](https://github.com/memsql/singlestore-auth-helper)
