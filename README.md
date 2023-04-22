@@ -1,4 +1,4 @@
-
+<-- two blanks ends a line -->
 Dependency injection:
  [nject](https://github.com/muir/nject)
  [ntest](https://github.com/memsql/ntest)  
@@ -13,7 +13,7 @@ Databases:
  [sqltoken](https://github.com/muir/sqltoken)  
 Config/startup:
  [nfigure](https://github.com/muir/nfigure)
- [nserve](https://github.com/muir/nserve)
+ [nserve](https://github.com/muir/nserve)  
 Logging:
  [xop](https://github.com/xoplog/xop-go)  
 Utilities/Support:
