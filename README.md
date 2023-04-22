@@ -1,4 +1,3 @@
-<-- two blanks ends a line -->
 Dependency injection:
  [nject](https://github.com/muir/nject)
  [ntest](https://github.com/memsql/ntest)  
