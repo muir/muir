@@ -17,8 +17,8 @@ Logging:
  [xop](https://github.com/xoplog/xop-go)  
 Utilities/Support:
  [nflex](https://github.com/muir/nflex)
- [detangle_testing](https://github.com/muir/detangle_testing)
  [reflectutils](https://github.com/muir/reflectutils)
+ [detangle_testing](https://github.com/muir/detangle_testing)
  [keyeddistributor](https://github.com/memsql/keyeddistributor)   
 Generics:
  [list](https://github.com/muir/list)
