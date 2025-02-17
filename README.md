@@ -25,9 +25,10 @@ Generics:
  [gwrap](https://github.com/muir/gwrap)   
 Data structures:
  [refcountmap](https://github.com/memsql/refcountmap)   
+HA config:
+ [HA setup with LXD & DRBD](https://github.com/muir/drbd-lxd)
+ [DRBD watcher](https://github.com/muir/drbd-watcher)   
 Other projects:
  [OIDC](https://github.com/zitadel/oidc)
  [singlestore-auth-helper](https://github.com/memsql/singlestore-auth-helper)
- [HA setup with LXD & DRBD](https://github.com/muir/drbd-lxd)
- [DRBD watcher](https://github.com/muir/drbd-watcher)
 
