@@ -19,6 +19,7 @@ Utilities/Support:
  [nflex](https://github.com/muir/nflex)
  [reflectutils](https://github.com/muir/reflectutils)
  [detangle_testing](https://github.com/muir/detangle_testing)
+ [once](https://github.com/singlestore-labs/once)
  [keyeddistributor](https://github.com/memsql/keyeddistributor)   
 Generics:
  [list](https://github.com/muir/list)
