@@ -24,7 +24,8 @@ Utilities/Support:
  [keyeddistributor](https://github.com/memsql/keyeddistributor)   
 Generics:
  [list](https://github.com/muir/list)
- [gwrap](https://github.com/muir/gwrap)   
+ [gwrap](https://github.com/muir/gwrap)
+ [generic](https://github.com/singlestore-labs/generic)   
 Data structures:
  [refcountmap](https://github.com/memsql/refcountmap)   
 HA config:
