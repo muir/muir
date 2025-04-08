@@ -21,6 +21,7 @@ Utilities/Support:
  [detangle_testing](https://github.com/muir/detangle_testing)
  [once](https://github.com/singlestore-labs/once)
  [wait](https://github.com/singlestore-labs/wait)
+ [simultaneous](https://github.com/singlestore-labs/simultaneous)
  [keyeddistributor](https://github.com/memsql/keyeddistributor)   
 Generics:
  [list](https://github.com/muir/list)
