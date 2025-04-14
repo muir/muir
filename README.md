@@ -9,6 +9,7 @@ HTTP handling (with DI):
  [npoint](https://github.com/muir/npoint)  
 Databases:
  [libschema](https://github.com/muir/libschema)
+ [events](https://github.com/singlestore-labs/events)
  [sqltoken](https://github.com/muir/sqltoken)  
 Config/startup:
  [nfigure](https://github.com/muir/nfigure)
