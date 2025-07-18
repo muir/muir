@@ -35,5 +35,6 @@ HA config:
  [DRBD watcher](https://github.com/muir/drbd-watcher)   
 Other projects:
  [OIDC](https://github.com/zitadel/oidc)
+ [singlestore-auth-iam](https://github.com/singlestore-labs/singlestore-auth-iam)
  [singlestore-auth-helper](https://github.com/memsql/singlestore-auth-helper)
 
